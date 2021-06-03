@@ -7,6 +7,8 @@
 - 💼 𝙵𝚘𝚞𝚗𝚍𝚎𝚛 𝚘𝚏 Cipherem
 - 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 Bsc (𝙷𝚘𝚗𝚘𝚞𝚛𝚜) in 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 (Machine learning & Artificial Intelligence) at University of London at SIM GE, Singapore 𝚌𝚕𝚊𝚜𝚜 𝚘𝚏 𝟸0𝟸4
 
+Here are some ideas to get you started:
+
 - 👋 Hi, I’m @visualarchillect!
 - 👀 I’m interested in engineering, machine learning, artificial intelligence, cryptography and investments.
 - 🌱 I’m currently learning cryptography and digital engineering.
