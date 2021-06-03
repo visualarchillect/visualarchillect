@@ -1,3 +1,5 @@
+![v.archillect's GitHub stats](https://github-readme-stats.vercel.app/api?username=visualarchillect&show_icons=true&theme=radical)
+
 - 👋 Hi, I’m @visualarchillect!
 - 👀 I’m interested in engineering, machine learning, artificial intelligence, cryptography and investments.
 - 🌱 I’m currently learning cryptography and digital engineering.
