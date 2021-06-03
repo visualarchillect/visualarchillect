@@ -1,6 +1,6 @@
 ![v.archillect's GitHub stats](https://github-readme-stats.vercel.app/api?username=visualarchillect&show_icons=true&theme=radical)
 
-![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Raymo111.Raymo111&color=00cf00)
+![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=visualarchillect.visualarchillectcolor=00cf00)
  
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 
