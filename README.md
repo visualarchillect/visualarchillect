@@ -5,7 +5,7 @@
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 
 - 💼 𝙵𝚘𝚞𝚗𝚍𝚎𝚛 𝚘𝚏 Cipherem
-- 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 BSc (𝙷𝚘𝚗𝚘𝚞𝚛𝚜) in 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 (Machine learning & Artificial Intelligence) at University of London at SIM GE, Singapore 𝚌𝚕𝚊𝚜𝚜 𝚘𝚏 𝟸0𝟸4
+
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝚃𝚠𝚎𝚎𝚝
 <a href="https://twitter.com/padgyism_" target="_blank">
