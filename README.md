@@ -15,8 +15,6 @@
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
 ![Metrics](https://metrics.lecoq.io/visualarchillect?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
 
-Here are some ideas to get you started:
-
 - 👋 Hi, I’m @visualarchillect!
 - 👀 I’m into blockchain gaming, fintech, machine learning/AI, RPA, cryptography and the web3.
 - 🌱 I’m currently learning computer science and machine learning.
